@@ -1,10 +1,10 @@
 {
   "bankVersion": "2026.11.08",
-  "build": "2026.11.14-session-updates.1",
+  "build": "2026.11.14-flash-history.1",
   "course": "apcsa",
   "formatVersion": 1,
-  "htmlSha256": "bae298748fb3ed9d02324a0faf6435fd96fce5ab67058f992e1d8e987270e01d",
-  "offlineZip": "offline/2026.11.14-session-updates.1/apcsa-review.zip",
-  "offlineZipSha256": "c8f2d227396e0bb4fd822af659a1f978dc1a1e79af3cf2624345101a7e7bd907",
-  "releaseSequence": 2
+  "htmlSha256": "3ad2742cf7034026b2d75fa3a36966367a7a62cfcc7bf26469c5201c84416ed1",
+  "offlineZip": "offline/2026.11.14-flash-history.1/apcsa-review.zip",
+  "offlineZipSha256": "569f273a3702fcb3b4d343ca16865b44d0e37121179c52482594768334355edd",
+  "releaseSequence": 3
 }
