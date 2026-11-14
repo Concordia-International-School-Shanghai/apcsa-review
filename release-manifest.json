@@ -1,20 +1,24 @@
 {
   "bankVersion": "2026.11.08",
-  "build": "2026.11.14-pages.1",
+  "build": "2026.11.14-session-updates.1",
   "controlFiles": {
     ".gitattributes": "1aec5b0134f49adf69e63288ed96d91224dfc7081825bb96a3d4794c6924ad6d",
     ".github/workflows/pages.yml": "6483a2a081272e7de97ea990f0a9369c23a2b5bff67231b69e2f5ae1c6fc6772",
-    "README.md": "373b6d1a06d4f2a27abe66cdb40ad89fac860d3e76c94b3fa2d7c1d28d9e5fe0",
-    "tools/verify_release.py": "71ddf125f632cbe67b724a0b1490b5ab60dbeca34135724d196fde022b618eb9"
+    "README.md": "8f67a949fd18800dba9d790b2ffbbc194f296b35cbf7f2b0747e55e4238c3dbb",
+    "tools/verify_release.py": "6b5534c3cf4a0cd2d1a5c795c682282c6c08e69bea848436250bdcdcdaf57cd1"
   },
   "course": "apcsa",
   "formatVersion": 1,
+  "releaseSequence": 2,
   "repository": "Concordia-International-School-Shanghai/apcsa-review",
-  "retainedDownloads": [],
+  "retainedDownloads": [
+    "offline/2026.11.14-pages.1/apcsa-review.zip"
+  ],
   "siteFiles": {
-    "UPDATE.txt": "02778a7430b731ffa9abd262ab198fe06b748a9a7fdc6681302937936fe5369e",
-    "index.html": "e5b957a3b29afd106ba919abfc5f4adc1d91401bcc50327dd2819bb7380a6336",
+    "UPDATE.txt": "9c108c2487cac71609671c7786a61975d74005245ae773c602d0e42c9e1dc446",
+    "index.html": "bae298748fb3ed9d02324a0faf6435fd96fce5ab67058f992e1d8e987270e01d",
     "offline/2026.11.14-pages.1/apcsa-review.zip": "edf240698043b3eff1a7bd2d938ad6609fddd39886508352913083ab6601a767",
-    "release.json": "38f12c5d8ab72f9f616bf8b53114bb333c323f191a6b4c0cc4d9ae5f7d220703"
+    "offline/2026.11.14-session-updates.1/apcsa-review.zip": "c8f2d227396e0bb4fd822af659a1f978dc1a1e79af3cf2624345101a7e7bd907",
+    "release.json": "2793dd2e8bb667cede78445aa2200646e53284795b0856d64769e14a09a405d5"
   }
 }
