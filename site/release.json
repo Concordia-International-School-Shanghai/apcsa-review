@@ -1,0 +1,8 @@
+{
+  "bankVersion": "2026.11.08",
+  "build": "2026.11.14-pages.1",
+  "course": "apcsa",
+  "htmlSha256": "e5b957a3b29afd106ba919abfc5f4adc1d91401bcc50327dd2819bb7380a6336",
+  "offlineZip": "offline/2026.11.14-pages.1/apcsa-review.zip",
+  "offlineZipSha256": "edf240698043b3eff1a7bd2d938ad6609fddd39886508352913083ab6601a767"
+}
