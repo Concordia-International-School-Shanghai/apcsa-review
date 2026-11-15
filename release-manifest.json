@@ -1,28 +1,30 @@
 {
   "bankVersion": "2026.11.08",
-  "build": "2026.11.15-practice-spacing.1",
+  "build": "2026.11.15-due-status.1",
   "controlFiles": {
     ".gitattributes": "1aec5b0134f49adf69e63288ed96d91224dfc7081825bb96a3d4794c6924ad6d",
     ".github/workflows/pages.yml": "6483a2a081272e7de97ea990f0a9369c23a2b5bff67231b69e2f5ae1c6fc6772",
-    "README.md": "c41b6da7afc6db108edc2c98397a48570a3a4177e6d265b3c2b62d663998139e",
+    "README.md": "3afe83925c63aaf12f89c31258320b9c496302d8288048f0409bd21eb6b369cb",
     "tools/verify_release.py": "6b5534c3cf4a0cd2d1a5c795c682282c6c08e69bea848436250bdcdcdaf57cd1"
   },
   "course": "apcsa",
   "formatVersion": 1,
-  "releaseSequence": 6,
+  "releaseSequence": 7,
   "repository": "Concordia-International-School-Shanghai/apcsa-review",
   "retainedDownloads": [
     "offline/2026.11.14-flash-history.1/apcsa-review.zip",
     "offline/2026.11.14-pages.1/apcsa-review.zip",
-    "offline/2026.11.14-session-updates.1/apcsa-review.zip"
+    "offline/2026.11.14-session-updates.1/apcsa-review.zip",
+    "offline/2026.11.15-practice-spacing.1/apcsa-review.zip"
   ],
   "siteFiles": {
     "UPDATE.txt": "8fca8016045173b98d339462b1a56442e70d0495af3582d025ade22f085973a5",
-    "index.html": "f50f282552311298fab4979307219784f0f2dad4abc28d350b2ef1aa6e1f8422",
+    "index.html": "9f9db4880a29d117744946d1e2d3c3e4aae3f3ec41e9cf9b12e593f09a938170",
     "offline/2026.11.14-flash-history.1/apcsa-review.zip": "569f273a3702fcb3b4d343ca16865b44d0e37121179c52482594768334355edd",
     "offline/2026.11.14-pages.1/apcsa-review.zip": "edf240698043b3eff1a7bd2d938ad6609fddd39886508352913083ab6601a767",
     "offline/2026.11.14-session-updates.1/apcsa-review.zip": "c8f2d227396e0bb4fd822af659a1f978dc1a1e79af3cf2624345101a7e7bd907",
+    "offline/2026.11.15-due-status.1/apcsa-review.zip": "a64db43545e39d292a9fb056d90eb63f2d18fdfda3c771346c85e521e0328f1f",
     "offline/2026.11.15-practice-spacing.1/apcsa-review.zip": "3afa36ee05963a8cb3bbaedef667776c270199ac4aa0d14b81f943e2a2573f30",
-    "release.json": "86a942f7631b49705cfbf176186e1d22046cbdae48e9f4f7a0588e2c295d6c1e"
+    "release.json": "a1c2a5810f2cd1af580d704ea943fcace61e4dcd6ff39bf574ca35936e010b6a"
   }
 }
