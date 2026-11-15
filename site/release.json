@@ -1,10 +1,10 @@
 {
   "bankVersion": "2026.11.08",
-  "build": "2026.11.14-flash-history.1",
+  "build": "2026.11.15-practice-spacing.1",
   "course": "apcsa",
   "formatVersion": 1,
-  "htmlSha256": "3ad2742cf7034026b2d75fa3a36966367a7a62cfcc7bf26469c5201c84416ed1",
-  "offlineZip": "offline/2026.11.14-flash-history.1/apcsa-review.zip",
-  "offlineZipSha256": "569f273a3702fcb3b4d343ca16865b44d0e37121179c52482594768334355edd",
-  "releaseSequence": 3
+  "htmlSha256": "f50f282552311298fab4979307219784f0f2dad4abc28d350b2ef1aa6e1f8422",
+  "offlineZip": "offline/2026.11.15-practice-spacing.1/apcsa-review.zip",
+  "offlineZipSha256": "3afa36ee05963a8cb3bbaedef667776c270199ac4aa0d14b81f943e2a2573f30",
+  "releaseSequence": 6
 }
