@@ -1,32 +1,34 @@
 {
   "bankVersion": "2026.11.22",
-  "build": "2026.11.22-iteration-2-7.1",
+  "build": "2026.11.23-class-pacing.1",
   "controlFiles": {
     ".gitattributes": "1aec5b0134f49adf69e63288ed96d91224dfc7081825bb96a3d4794c6924ad6d",
     ".github/workflows/pages.yml": "6483a2a081272e7de97ea990f0a9369c23a2b5bff67231b69e2f5ae1c6fc6772",
-    "README.md": "4ea0d3a6ffc045189e8b628ce7665eadafc4f18d30d23d3fa08e6d6f319160f5",
+    "README.md": "f809a3aa49b3353816c86c0a18d645960fcfe887980c9b7c5ad63c5465eac2ff",
     "tools/verify_release.py": "6b5534c3cf4a0cd2d1a5c795c682282c6c08e69bea848436250bdcdcdaf57cd1"
   },
   "course": "apcsa",
   "formatVersion": 1,
-  "releaseSequence": 8,
+  "releaseSequence": 9,
   "repository": "Concordia-International-School-Shanghai/apcsa-review",
   "retainedDownloads": [
     "offline/2026.11.14-flash-history.1/apcsa-review.zip",
     "offline/2026.11.14-pages.1/apcsa-review.zip",
     "offline/2026.11.14-session-updates.1/apcsa-review.zip",
     "offline/2026.11.15-due-status.1/apcsa-review.zip",
-    "offline/2026.11.15-practice-spacing.1/apcsa-review.zip"
+    "offline/2026.11.15-practice-spacing.1/apcsa-review.zip",
+    "offline/2026.11.22-iteration-2-7.1/apcsa-review.zip"
   ],
   "siteFiles": {
     "UPDATE.txt": "8fca8016045173b98d339462b1a56442e70d0495af3582d025ade22f085973a5",
-    "index.html": "8bb888d7d9a09c562140518a281156d1a1431bc461478f396f98ccc588e06289",
+    "index.html": "24de87260caac7779f38c1643593f12efc60812e7af2fe34329e44e30782f3f3",
     "offline/2026.11.14-flash-history.1/apcsa-review.zip": "569f273a3702fcb3b4d343ca16865b44d0e37121179c52482594768334355edd",
     "offline/2026.11.14-pages.1/apcsa-review.zip": "edf240698043b3eff1a7bd2d938ad6609fddd39886508352913083ab6601a767",
     "offline/2026.11.14-session-updates.1/apcsa-review.zip": "c8f2d227396e0bb4fd822af659a1f978dc1a1e79af3cf2624345101a7e7bd907",
     "offline/2026.11.15-due-status.1/apcsa-review.zip": "a64db43545e39d292a9fb056d90eb63f2d18fdfda3c771346c85e521e0328f1f",
     "offline/2026.11.15-practice-spacing.1/apcsa-review.zip": "3afa36ee05963a8cb3bbaedef667776c270199ac4aa0d14b81f943e2a2573f30",
     "offline/2026.11.22-iteration-2-7.1/apcsa-review.zip": "751560ea783c3cad086c6ca60a99549ce5601eb7e99d11b7351a4759b223aecd",
-    "release.json": "664aaf7b1f01ceea9f508c4f831031cc3bd9fe045807008b4d0d3d07e8f5d787"
+    "offline/2026.11.23-class-pacing.1/apcsa-review.zip": "e51f54857e377ed605944eebedefe11a48a376b0305e6cf4dedbac784b879573",
+    "release.json": "b4187c78a883bf89337484fd5bce16ff7036bad48997debee498a11e6224741a"
   }
 }
