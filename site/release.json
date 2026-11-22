@@ -1,10 +1,10 @@
 {
-  "bankVersion": "2026.11.08",
-  "build": "2026.11.15-due-status.1",
+  "bankVersion": "2026.11.22",
+  "build": "2026.11.22-iteration-2-7.1",
   "course": "apcsa",
   "formatVersion": 1,
-  "htmlSha256": "9f9db4880a29d117744946d1e2d3c3e4aae3f3ec41e9cf9b12e593f09a938170",
-  "offlineZip": "offline/2026.11.15-due-status.1/apcsa-review.zip",
-  "offlineZipSha256": "a64db43545e39d292a9fb056d90eb63f2d18fdfda3c771346c85e521e0328f1f",
-  "releaseSequence": 7
+  "htmlSha256": "8bb888d7d9a09c562140518a281156d1a1431bc461478f396f98ccc588e06289",
+  "offlineZip": "offline/2026.11.22-iteration-2-7.1/apcsa-review.zip",
+  "offlineZipSha256": "751560ea783c3cad086c6ca60a99549ce5601eb7e99d11b7351a4759b223aecd",
+  "releaseSequence": 8
 }
